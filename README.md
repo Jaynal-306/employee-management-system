@@ -30,7 +30,17 @@ This project helps manage employees with full CRUD operations, image upload, sea
 
 ## Screenshots
 
-(Add your project screenshots here)
+### Dashboard
+![Dashboard](public/images/dashboard.png)
+
+### Employee home
+![Employee home](public/images/employee-home.png)
+
+### Employee create
+![Employee create](public/images/employee-create.png)
+
+### Employee List
+![Employee List](public/images/employee-list.png)
 
 ---
 
